@@ -33,8 +33,8 @@ collaborating members use readme file to know exactly progress of the project an
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 assuming you already have a github account and already you have created a repository and may be initialized with a readme file, you can directly commit a readme file on github by clicking pen like icon then edit your project and finaly commit by clicking commit changes highlited in green on the top right conner of the page.APART from this option you can clone your project to your local machine 
 create a directory
-mkdr <name of your folder>
-git clone <paste your link>
+mkdr [name of your folder]
+git clone [paste your link]
 modify readme file on vs studio
 in git,Use the git add -command to stage your changes
 Commit your staged changes with a descriptive message
@@ -47,11 +47,11 @@ after commiting your changes collaborators of your project are able to see chang
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 branching is like creating a copy of your project, modify that copy of your coding and test it and after confirming you have made the changes you wanted merge with the original or the master branch thus his is a very important feature since it allows developer to work independently without affecting the main project
 creating a branch isn't a complex task,on git bash;-
-1. git branch <name of the branch>to create branch
-3. git checkout <name of the branch> to switch branch
+1. git branch [name of the branch]to create branch
+3. git checkout [name of the branch] to switch branch
 4. makes changes to your project and dont forget to commit those changes
-5. git checkout main <to switch to main branch>
-6. git merge <name of the branch you created>
+5. git checkout main [to switch to main branch]
+6. git merge [name of the branch you created]
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
