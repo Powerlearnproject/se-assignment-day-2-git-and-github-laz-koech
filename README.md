@@ -54,6 +54,7 @@ creating a branch isn't a complex task,on git bash;-
 6. git merge [name of the branch you created]
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+In a  collaborative workflows pull request is way of askING members to review or propose changes to  a project on a branch bofore merging them to main branch.This ensure a carefull considerations before the code is update
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
